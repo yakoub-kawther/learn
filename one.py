@@ -62,6 +62,6 @@ price1 = 3.1457896
 price2= -9877.12345688
 price3 = 12.42
 
-#print(f"price1 = {price1:+.3f}")
-#print(f"price2 = {price2:.3f}")
-#print(f"price3 = {price3:.3f}")
+print(f"price1 = {price1:+.3f}")
+print(f"price2 = {price2:.3f}")
+print(f"price3 = {price3:.3f}")
